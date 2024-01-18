@@ -39,9 +39,9 @@ function App() {
 
   // <Home/>
   <>
-<Login/>
-  {/* <Navbar/>
-  <Sidebar /> */}
+{/* <Login/> */}
+  <Navbar/>
+  <Sidebar />
   </>
   );
 }

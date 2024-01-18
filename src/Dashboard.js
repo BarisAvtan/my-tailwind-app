@@ -5,7 +5,7 @@ function Dashboard() {
   return (
   <>
    <Navbar/>
-  <Sidebar /> 
+   <Sidebar /> 
   </>
   );
 }
