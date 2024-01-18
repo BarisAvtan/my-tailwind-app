@@ -1,5 +1,3 @@
-import { Card, Typography } from "@material-tailwind/react";
-
 import Sidebar from "./Sidebar ";
 import Navbar from "./Navbar";
 
