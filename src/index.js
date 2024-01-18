@@ -14,7 +14,6 @@ root.render(
       <Route path="/" element={<Navigate replace to="/Login" />} />
         <Route path="Login/*" element={<Login />} />
         <Route path="Dashboard/" element={<Dashboard />} />
-
         <Route path="ForgotPassword/" element={<ForgotPassword />} />      </Routes>
     </Router>
   </React.StrictMode>,
